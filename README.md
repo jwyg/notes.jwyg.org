@@ -37,6 +37,8 @@ A living, working space for gathering various links, lists, notes and examples f
     * [Raw Graphs](http://rawgraphs.io);
     * [DataWrapper](https://www.datawrapper.de).
   * [Gephi](https://gephi.org/) – open source software for visualisation and exploration of graphs and networks;
+    * [Learn how to use Gephi](https://gephi.org/users/) - links and materials to get started from Gephi;
     * [Gephi Tutorial for working with Twitter mention networks](https://www.youtube.com/watch?v=snPR8CwPld0) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
     * [Facebook Page Like Networks with Netvizz and Gephi](https://www.youtube.com/watch?v=mLOSLYNWmBA) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
-    * [Sigma.js](http://sigmajs.org/) - JavaScript library for publishing network graphs on the web.
+    * [Sigma.js](http://sigmajs.org/) - JavaScript library for publishing network graphs on the web;
+    * Community support is available on the [official Gephi Facebook group](https://www.facebook.com/groups/gephi) and [Gephi community forum](http://forum-gephi.org/)
