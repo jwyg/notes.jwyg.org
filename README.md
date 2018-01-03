@@ -36,3 +36,7 @@ A living, working space for gathering various links, lists, notes and examples f
   * Simple, open source, web based data visualisation tools:
     * [Raw Graphs](http://rawgraphs.io);
     * [DataWrapper](https://www.datawrapper.de).
+  * [Gephi](https://gephi.org/) – open source software for visualisation and exploration of graphs and networks;
+    * [Gephi Tutorial for working with Twitter mention networks](https://www.youtube.com/watch?v=snPR8CwPld0) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
+    * [Facebook Page Like Networks with Netvizz and Gephi](https://www.youtube.com/watch?v=mLOSLYNWmBA) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
+    * [Sigma.js](http://sigmajs.org/) - JavaScript library for publishing network graphs on the web.
