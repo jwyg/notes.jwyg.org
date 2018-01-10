@@ -42,3 +42,4 @@ A living, working space for gathering various links, lists, notes and examples f
     * [Facebook Page Like Networks with Netvizz and Gephi](https://www.youtube.com/watch?v=mLOSLYNWmBA) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
     * [Sigma.js](http://sigmajs.org/) - JavaScript library for publishing network graphs on the web;
     * Community support is available on the [official Gephi Facebook group](https://www.facebook.com/groups/gephi) and [Gephi community forum](http://forum-gephi.org/)
+  * [CrowdTangle](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh/) tool
