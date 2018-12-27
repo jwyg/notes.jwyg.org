@@ -35,6 +35,7 @@ A living, working space for gathering various links, lists, notes and examples f
   * Tools from the [médialab at Sciences Po, Paris](http://tools.medialab.sciences-po.fr);
   * Simple, web-based, free and/or open source data visualisation tools:
     * [Raw Graphs](http://rawgraphs.io);
+    * [MiniVAN](http://minivan.publicdatalab.org);
     * [DataWrapper](https://www.datawrapper.de);
     * [Flourish](http://flourish.studio).
   * [Gephi](https://gephi.org/) – open source software for visualisation and exploration of graphs and networks;
