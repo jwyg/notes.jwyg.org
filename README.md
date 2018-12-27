@@ -33,11 +33,11 @@ A living, working space for gathering various links, lists, notes and examples f
 
   * Tools from the [Digital Methods Initiative](http://tools.digitalmethods.net);
   * Tools from the [médialab at Sciences Po, Paris](http://tools.medialab.sciences-po.fr);
-  * Simple, web-based, free and/or open source data visualisation tools:
-    * [Raw Graphs](http://rawgraphs.io);
-    * [MiniVAN](http://minivan.publicdatalab.org);
-    * [DataWrapper](https://www.datawrapper.de);
-    * [Flourish](http://flourish.studio).
+  * Simple, web-based, free and/or open-source data visualisation tools:
+    * [Raw Graphs](http://rawgraphs.io) - "missing link between spreadsheets and data visualization", an [open-source tool](https://github.com/densitydesign/raw/) from [Density Design](http://densitydesign.org) with a wide variety of visual formats;
+    * [MiniVAN](http://minivan.publicdatalab.org) - [open-source tool](https://github.com/medialab/minivan/) for visual network analysis from the [Public Data Lab](http://publicdatalab.org);
+    * [DataWrapper](https://www.datawrapper.de) - [open-source tool](https://github.com/datawrapper/datawrapper) originally created by and for journalists and media organisations;
+    * [Flourish](http://flourish.studio) - free web-based tool to "explore and explain your data with stunning visualizations and stories".
   * [Gephi](https://gephi.org/) – open source software for visualisation and exploration of graphs and networks;
     * [Learn how to use Gephi](https://gephi.org/users/) - links and materials to get started from Gephi;
     * [Gephi Tutorial for working with Twitter mention networks](https://www.youtube.com/watch?v=snPR8CwPld0) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
