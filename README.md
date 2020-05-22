@@ -31,17 +31,5 @@ A living, working space for gathering various links, lists, notes and examples f
   
 ## Tools
 
-  * Tools from the [Digital Methods Initiative](http://tools.digitalmethods.net);
-  * Tools from the [médialab at Sciences Po, Paris](http://tools.medialab.sciences-po.fr);
-  * Simple, web-based, free and/or open-source data visualisation tools:
-    * [Raw Graphs](http://rawgraphs.io) - "missing link between spreadsheets and data visualization", an [open-source tool](https://github.com/densitydesign/raw/) from [Density Design](http://densitydesign.org) with a wide variety of visual formats;
-    * [MiniVAN](http://minivan.publicdatalab.org) - [open-source tool](https://github.com/medialab/minivan/) for visual network analysis from the [Public Data Lab](http://publicdatalab.org);
-    * [DataWrapper](https://www.datawrapper.de) - [open-source tool](https://github.com/datawrapper/datawrapper) originally created by and for journalists and media organisations;
-    * [Flourish](http://flourish.studio) - free web-based tool to "explore and explain your data with stunning visualizations and stories".
-  * [Gephi](https://gephi.org/) – open source software for visualisation and exploration of graphs and networks;
-    * [Learn how to use Gephi](https://gephi.org/users/) - links and materials to get started from Gephi;
-    * [Gephi Tutorial for working with Twitter mention networks](https://www.youtube.com/watch?v=snPR8CwPld0) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
-    * [Facebook Page Like Networks with Netvizz and Gephi](https://www.youtube.com/watch?v=mLOSLYNWmBA) by [Bernhard Rieder](http://thepoliticsofsystems.net/about/) at the Digital Methods Initiative;
-    * [Sigma.js](http://sigmajs.org/) - JavaScript library for publishing network graphs on the web;
-    * Community support is available on the [official Gephi Facebook group](https://www.facebook.com/groups/gephi) and [Gephi community forum](http://forum-gephi.org/)
-  * [CrowdTangle](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh/) tool
+  * [Tools, Scripts, Libraries for Digital Methods Research
+](https://github.com/PublicDataLab/code-for-research/wiki/Tools,-Scripts,-Libraries-for-Digital-Methods-Research)
