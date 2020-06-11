@@ -16,7 +16,8 @@ A living, working space for gathering various links, lists, notes and examples f
   * Readings on the [sociology of quantification](https://www.zotero.org/groups/sociology_of_quantification);
   * Readings on [data visualisation](https://www.zotero.org/groups/data_visualisation);
   * Research on [data journalism](http://zotero.org/groups/data_journalism_research);
-  * Publications from the [Digital Methods Initiative](https://www.zotero.org/groups/dmi).
+  * Publications from the [Digital Methods Initiative](https://www.zotero.org/groups/dmi);
+  * Readings on [visual methods](https://www.zotero.org/groups/visual_methods);
   * Readings on [data and ethics](https://www.zotero.org/groups/data_and_ethics);
   * Bibliography on [ethical, legal and social implications of the big data](https://www.zotero.org/groups/263938/council_for_big_data) (from [Council for Big Data, Ethics, and Society](http://bdes.datasociety.net/));
   * Readings on the social and political study of algorithms:
