@@ -1,6 +1,6 @@
 # Working notes
 
-A living, working space for gathering various links, lists, notes and examples from [Jonathan Gray](http://jonathangray.org) ([@jwyg](twitter.com/jwyg)), mainly shared in the context of teaching and public events.
+A living, working space for gathering various links, lists, notes and examples from [Jonathan Gray](http://jonathangray.org) ([@jwyg](twitter.com/jwyg)), mainly shared in the context of teaching and events.
 
 ## Datasets and data projects
 
@@ -10,6 +10,7 @@ A living, working space for gathering various links, lists, notes and examples f
     * International data portals such as [data.worldbank.org](https://data.worldbank.org/);
     * National data portals such as [data.gov](http://data.gov/), [data.gov.uk](http://data.gov.uk) or [data.gouv.fr](http://data.gouv.fr);
     * Local and city data portals such as [data.london.gov.uk](https://data.london.gov.uk/).
+  * "Data is plural" a "weekly newsletter of useful/curious datasets" from Jeremy Singer-Vine, Data Editor at BuzzFeed News - [newsletter](https://tinyletter.com/data-is-plural) and [spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).
 
 ## Readings
 
