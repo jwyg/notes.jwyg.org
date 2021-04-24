@@ -8,10 +8,24 @@ One simple option is to copy and paste the table contents into a HTML table gene
 
 This is one option: <https://russellgoldenberg.github.io/responsive-table-generator/>
 
-- Pro: nicely laid out
-- Con: no interactivity
+- Pro: Nicely laid out.
+- Con: No interactivity. Have to update data manually.
+
+Also FooTable: https://fooplugins.github.io/FooTable/index.html
+
+- Pro: Nicely laid out and interactive.
+- Con: Have to update data manually.
 
 ## Interactive tables
+
+Embedding Google Sheet directly.
+- Pro: Easy!
+- Con: May appear in an iFrame and not always work as intended.
+
+Sheetsee seems to be one of the most widely mentioned options for making an interactive table from a Google Sheets document:
+<http://jlord.us/sheetsee.js/demos/demo-table.html>
+- Pro: Interactive embedding with sorting and filtering.
+- Con: May need a bit of fiddling and testing to set up.
 
 Flourish table - <https://app.flourish.studio/@flourish/table>
 - Pro: It can be queried and filtered
@@ -42,3 +56,7 @@ Kerko creates an interactive bibliography from a Zotero library/group:
 * tabletop.js - <https://github.com/jsoma/tabletop> - no longer works due to changes on Google side
 * <http://inn.github.io/responsive-tables/> - seems not to work
 * <http://listify.okfnlabs.org/> - infinite wait
+
+## To do
+
+* Continue looking at other libraries on GitHub: https://github.com/search?p=1&q=google+sheets&type=Repositories
