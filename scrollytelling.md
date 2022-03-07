@@ -8,6 +8,9 @@
   * <https://highline.huffingtonpost.com/articles/en/poor-millennials/>
   * <https://projects.propublica.org/hawaii-beach-loss/>
   * <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/>
+  * <https://interactive.aljazeera.com/aje/2017/jerusalem-2016-home-demolitions/index.html>
+  * <https://pudding.cool/2022/02/women-in-headlines/> + <https://pudding.cool/2021/10/lenna/> + lots more at <https://pudding.cool/>
+  * <https://piaui.folha.uol.com.br/lupa/epicentro/>
 
 ## Tools and Libraries
 
@@ -17,6 +20,7 @@
   * <https://www.pageflow.io/en/>
   * <https://www.exhibit.so/>
   * <https://shorthand.com/>
+  * <https://www.figma.com/> - for prototyping, see [this page](https://help.figma.com/hc/en-us/articles/360039818734-Prototype-scrolling-with-overflow-behavior)
 
 ### Code libraries
 
@@ -44,3 +48,11 @@
   * <https://digitalblog.ons.gov.uk/2021/06/02/how-we-build-scrollytelling-articles/>
   * <https://webflow.com/blog/scrollytelling-guide>
   * <https://nightingaledvs.com/the-past-present-and-future-of-scrollytelling/>
+  * <https://innovation.dw.com/better-templates-for-visual-journalism-scrollytelling-7-protips/>
+
+## Readings
+
+Some relevant chapters of [*Data Journalism Handbook*](https://www.jstor.org/stable/j.ctv1qr6smr):
+
+  * <https://www.jstor.org/stable/j.ctv1qr6smr.29>
+  * <https://www.jstor.org/stable/j.ctv1qr6smr.7>
